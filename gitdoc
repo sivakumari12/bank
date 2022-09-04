@@ -1,0 +1,45 @@
+Notes
+1) Setting username and email
+
+2) As per git , there are three areas 
+working directory  --  untracked files
+staging area  -- staged files
+LR  -- commited files
+
+3) commands
+To initilize working directory as git repo
+To move files to staging are
+To bring back files from staging to untracked sectiion
+To move files from staging to LR
+To check the status of untracked files and staged files
+To see the commit history
+
+
+
+Branching
+--------------
+
+This feature is provided in git, so that developers can create code related to different functionalities  on seprate branches.
+This helps the development team in creating the code in an uncluttered way.
+Later this code can be merged with master branch.
+Default branch of git is "Master"
+
+
+Developer
+
+Home Page   --  f1  f2   f3
+Services   --  f4  f5
+Contact US  --  f6  f7   f8
+
+branch
+
+
+git  init  --  master
+
++++++++++++++++++++++++++++++++++
+
+
+git branch  branchname 
+
+git  branch test
+
